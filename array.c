@@ -1,0 +1,1 @@
+const unsigned char xxx[ ]={0x01,0x02,0x03};
