@@ -5,7 +5,7 @@
 #include "diskio.h"
 
 #define PLL_CLOCK       72000000
-
+/***This is master***/
 
 unsigned int MidDid;
 volatile UINT Timer = 0;		/* Performance timer (1kHz increment) */
